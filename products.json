@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Ground Venison",
+    "price": 169.00,
+    "description": "10 lbs. in 2 packs",
+    "category" : "venison-shop",
+    "image" : "assets/ground-venison.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Venison Flank Steaks",
+    "price": 169.00,
+    "description": "36-42 flank steaks (Approximately 12 lbs.)",
+    "category" : "venison-shop",
+    "image" : "assets/venison-flank-steak.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Venison Osso Bucco",
+    "price": 169.00,
+    "description": "36-42 flank steaks (Approximately 12 lbs.)",
+    "category" : "venison-shop",
+    "image" : "assets/venison-osso-bucco.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Rabbit Bone-in Saddies",
+    "price": 312.00,
+    "description": "6 packs (approximately 22 lbs.)",
+    "category" : "rabbit-shop",
+    "image" : "assets/rabbit-bone-in-saddles.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Rabbit Legs (Hind Quarters)",
+    "price": 346.00,
+    "description": "48 legs (approximately 22 lbs.)",
+    "category" : "rabbit-shop",
+    "image" : "assets/rabbit-legs.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Rabbit Rib Chops",
+    "price": null,
+    "stock": "out of stock",
+    "description": "600 chops (approximately 11 lbs.)",
+    "category" : "rabbit-shop",
+    "image" : "assets/rabbit-rib-chops.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Wild Boar Shanks",
+    "price": 169.00,
+    "description": "24 hindshanks (approximatley 15 lbs.)",
+    "category" : "wild-boar-shop",
+    "image" : "assets/wild-boar-shanks.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Wild Boar Racks",
+    "price": 169.00,
+    "description": "Choose size (approx. 7-12 lbs.)",
+    "category" : "wild-boar-shop",
+    "image" : "assets/wild-boar-racks.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Wild Boar Boneless Neck",
+    "price": 169.00,
+    "description": "6 pieces (approximately 16 lbs.)",
+    "category" : "wild-boar-shop",
+    "image" : "assets/wild-boar-boneless-neck.jpeg"
+  }
+]
